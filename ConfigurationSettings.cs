@@ -26,6 +26,7 @@ namespace WeiderMuller_Test_Utility
         public string strUSBDwnlTest = "";
         Boolean DownloadComplete = false;
         public string AppVersion = "";
+	public	 string testingGIT="";
 
         int _downloadStatus = 0;
       
